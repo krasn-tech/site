@@ -42975,10 +42975,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     height: 128px;
-    width: 440px;
-    margin-left: -50px;
-    margin-right: -50px;
     margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-header .u-btn-1 {
