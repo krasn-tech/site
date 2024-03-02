@@ -1,0 +1,395 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(114,24,51,0.5), rgba(114,24,51,0.5)), url("images/13950-elektronnaya_tehnika-elektronika-tehnologii-integralnye_mikroshemy-mikrokontroller-2000x1500.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 658px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Roboto, sans-serif;
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: normal;
+  margin: 30px 314px 60px 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 311px;
+  height: 183px;
+  margin: 0 auto 20px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 24px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 87px;
+  height: 87px;
+  margin: 0 13px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Molot;
+  width: auto;
+  font-size: 1rem;
+  margin: -82px 116px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 87px;
+  height: 87px;
+  margin: 20px 13px 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: Molot;
+  width: auto;
+  font-size: 1rem;
+  margin: -82px 116px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 114px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 681px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-family: Molot;
+    margin-top: 123px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: 700;
+    width: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 212px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 4px 0 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 4px;
+    margin-right: 21px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+    margin-top: -78px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 17px;
+    margin-right: 21px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 2.25rem;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(114,24,51,0.5), rgba(114,24,51,0.5)), url("images/1644403131_15-phonoteka-org-p-fon-kod-programmirovaniya-20.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 696px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 170px;
+  height: 60px;
+  margin: 28px auto 60px 72px;
+}
+
+.u-section-2 .u-shape-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 462px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Roboto, sans-serif;
+  font-size: 6rem;
+  margin: 60px auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: normal;
+  margin: 30px 314px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    font-size: 4.5rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 114px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    height: 161px;
+    width: 440px;
+    margin: 0 -50px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-top: 34px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-family: Molot;
+    font-size: 2.625rem;
+    width: auto;
+    margin-top: -657px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-weight: 700;
+    width: auto;
+    margin-top: 64px;
+    margin-bottom: 38px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(114,24,51,0.5), rgba(114,24,51,0.5)), url("images/EPBqKsoqlcjjxDtmMZgJKM5fWI3zDszArp5vxcto.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 695px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 440px;
+  height: 155px;
+  margin: 0 -50px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Molot;
+  font-size: 1rem;
+  width: auto;
+  margin: 36px 0 0;
+}
+
+.u-section-3 .u-shape-1 {
+  height: 450px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: normal;
+  margin: 30px 314px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-2 {
+    margin-right: 114px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-image-1 {
+    height: 138px;
+    margin-top: 1px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.625rem;
+    margin-top: -138px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: 39px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-weight: 700;
+    width: auto;
+    margin-top: -450px;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(114,24,51,0.5), rgba(114,24,51,0.5)), url("images/arduino-led-encoder-servo.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 695px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 440px;
+  height: 155px;
+  margin: 0 -50px;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: Molot;
+  font-size: 2.625rem;
+  width: auto;
+  margin: -155px 0 0;
+}
+
+.u-section-4 .u-shape-1 {
+  height: 450px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 700;
+  width: auto;
+  margin: -450px 0 60px;
+} .u-section-5 {
+  background-image: linear-gradient(0deg, rgba(114,24,51,0.5), rgba(114,24,51,0.5)), url("images/site5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 695px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 440px;
+  height: 155px;
+  margin: 0 -50px;
+}
+
+.u-section-5 .u-text-1 {
+  font-family: Molot;
+  font-size: 2.625rem;
+  margin: -155px 0 0;
+}
+
+.u-section-5 .u-shape-1 {
+  height: 450px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-weight: 700;
+  width: auto;
+  margin: -450px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-text-1 {
+    width: auto;
+  }
+} .u-section-6 {
+  background-image: linear-gradient(0deg, rgba(114,24,51,0.5), rgba(114,24,51,0.5)), url("images/90d860dd722d9ef972555ab2a6035f83_1600_1062_cropped.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 695px;
+}
+
+.u-section-6 .u-image-1 {
+  width: 440px;
+  height: 155px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-6 .u-text-1 {
+  font-family: Molot;
+  font-size: 2.625rem;
+  width: auto;
+  margin: -155px auto 0 50px;
+}
+
+.u-section-6 .u-shape-1 {
+  height: 450px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-text-2 {
+  font-weight: 700;
+  width: auto;
+  margin: -450px 0 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 730px;
+  }
+
+  .u-section-6 .u-image-1 {
+    height: 120px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: -120px;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .u-section-6 .u-shape-1 {
+    margin-top: 82px;
+  }
+}img{
+	width: 100%;
+	height: 100%;
+	background-size: 100%;
+}@font-face {
+  font-family: 'Molot';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Molot.otf);
+}
