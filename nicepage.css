@@ -42970,23 +42970,23 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 128px;
+    min-height: 156px;
   }
 
   .u-header .u-image-1 {
     height: 128px;
-    width: 440px;
-    margin-left: -50px;
-    margin-right: -50px;
+    width: 425px;
+    margin-left: -42px;
+    margin-right: -42px;
     margin-bottom: 0;
   }
 
   .u-header .u-btn-1 {
-    font-size: 1.875rem;
+    font-size: 3rem;
     font-family: Molot;
-    margin-top: -88px;
+    margin-top: -102px;
     margin-right: auto;
-    margin-bottom: 40px;
+    margin-bottom: 54px;
     padding-right: 16px;
     padding-left: 15px;
   }
